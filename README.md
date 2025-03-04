@@ -31,9 +31,9 @@ Data Science & Software Development Enthusiast | Lifelong Learner | AI & ML Boot
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YasaminEbrahimi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yasamin-ebrahimi)
-[![GitHub](https://img.shields.io/badge/GitHub-YasaminEbrahimi-black?style=for-the-badge&logo=github)](https://github.com/your-username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YasaminEbrahimi-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/yasamin-ebrahimi](https://www.linkedin.com/in/yasamin-ebrahimi-8721b319b/))
+[![GitHub](https://img.shields.io/badge/GitHub-YasaminEbrahimi-black?style=for-the-badge&logo=github)]([https://github.com/your-username](https://github.com/Yasamin577))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge)](https://github.com/Yasamin577)
 
 ---
 
