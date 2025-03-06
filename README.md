@@ -22,8 +22,8 @@ Data Science & Software Development Enthusiast | Lifelong Learner | AI & ML Boot
 
 ## Skills 
 
-- **Programming Languages**: Python, JavaScript, Java, C#, Dart, SQL, HTML/CSS, R, PHP, Kotlin
-- **Frameworks**: Flutter, React.js, Node.js, Django, Flask, Spring Boot, ASP.NET Core, Express.js, Vue.js, Laravel
+- **Programming Languages**: Python, Java, JavaScript, Dart, SQL, HTML/CSS
+- **Frameworks**: Flutter, React.js, Django, Flask, ASP.NET Core, Express.js, Vue.js, Laravel
 - **Other Tools & Technologies**: Git, Docker, Kubernetes, Excel, PowerBI
 - **Other Skills**: Team Mangement(familiar with Scrum Framework),Team work, Data Analysis, Machine Learning, Web Development, Database Management
 
